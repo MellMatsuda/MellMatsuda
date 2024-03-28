@@ -13,9 +13,13 @@ I'm Mell Matsuda, a Computer Technician interested in health area. Currently, I'
 #### Familiar with:
 - HTML/CSS
 - JavaScript
+- PHP
 - ReactJS
 - Vue.js
 - Node.js
+- Java
+- C
+- C++
 - SQL databases
 
 <!--
