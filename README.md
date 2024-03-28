@@ -6,7 +6,7 @@ I'm Mell Matsuda, a Computer Technician interested in health area. Currently, I'
 - 💻 Computer Technician.
 - 📚 Currently studying Biomedical Informatics.
 - 💼 Experience in web and mobile development projects.
-- 👩‍🏫 Experienced in teaching programming at Byju's Future School.
+- 👩‍🏫 Experienced in teaching programming.
 - 👩‍💻 Interested in Frontend Development.
 - 🌱 Always seeking to learn.
 
